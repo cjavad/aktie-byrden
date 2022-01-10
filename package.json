@@ -1,0 +1,15 @@
+{
+  "name": "aktie-byrden",
+  "version": "0.0.1",
+  "description": "Aktie simulator med rigtig data til DDU projekt",
+  "main": "app.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Javad Asgari Shafique",
+  "license": "SEE LICENSE IN LICENSE",
+  "dependencies": {
+    "@types/node": "^17.0.8",
+    "typescript": "^4.5.4"
+  }
+}
